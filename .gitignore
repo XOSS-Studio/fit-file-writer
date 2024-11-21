@@ -6,3 +6,4 @@ bin/
 *~
 *.orig
 /examples/*.fit
+bun.lockb
